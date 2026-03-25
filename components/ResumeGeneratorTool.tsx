@@ -11,7 +11,6 @@ import {
     Path,
 } from '@react-pdf/renderer';
 
-// 注册中文字体 - 使用本地 Noto Sans SC
 Font.register({
     family: 'NotoSansSC',
     fonts: [
